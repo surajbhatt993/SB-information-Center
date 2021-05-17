@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>Achievements of Modi</title>
+<style>
+p {
+  border: 1px solid white;
+  margin: 20px;
+} 
+</style>
+</head>
+<body background="narendra1.jpg" style="font-family:Copperplate Gothic;"
+ style="font-size:50%">
+<font color="orange">
+<h1><center>Achievements of Narendra Modi</center></h1>
+<font color="white">
+<p><ul>
+   <li> Ayushman Bharat yojana </li>
+   <li> The Insolvency and Bankruptcy Code </li>  
+   <li> Free LPG Cylinders </li>
+   <li> Sanitation </li>
+   <li> Infrastructure </li>
+</ul></p>
+<font color="orange">
+<h1><center>Strong Basics</center></h3>
+<font color="white">
+<p><ol>
+   <li> Foreign policy </li>
+   <li> GST [The goods and services tax] </li>
+   <li> Rural Electrification </li>
+   <li> Digital transfer of Subsidies </li>
+</ol></p>
+<font color="red">		
+	<p><center>Click below &#128071 &#x1F447 to watch the biography of Modi<br>in his own words</center></p> 
+	<p style="font-size:25px"><center><a href="bio.html">Click to watch Biography of Modi</a></center></p>
+
+</font>
+</body>
+</html>
