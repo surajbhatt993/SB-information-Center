@@ -1,1 +1,0 @@
-# Narendra Damodardas Modi
