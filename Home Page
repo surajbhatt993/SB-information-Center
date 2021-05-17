@@ -1,0 +1,79 @@
+<html>
+<head>
+	<title>Home</title>
+</head>
+<meta name="viewport"
+ content="width=device-width, initial scale=3">
+<style>
+	body { font="Lato", sans-serif;}
+	.sidenav {
+			height: 100%;
+			width: 0;
+			position: fixed;
+			z-index: 1;
+			top: 0;
+			left: 0;
+			backgroung-color: White;
+			overflow-x: hidden;
+			transition: 0.5s;
+			padding-top: 60px;
+		}	
+	.sidenav a {
+			padding: 8px 8px 8px 32px;
+			text-decoration: none;
+			font-size: 25px;
+			color: #7fffd4;
+			display: block;
+			transition: 0.3s;
+		   }
+	.sidenav a:hover { color: red;}
+	.sidenav .closebtn {
+				posistion: absolute;
+				top: 0;
+				right: 25px;
+				font-size: 36px;
+				margin-left: 50px;
+			   }
+	@media screen and (max-height: 450px)
+	{
+	    .sidenav {padding-top: 15px;}
+	    .sidenav a{font-size: 18px;}
+	}
+</style>
+
+<body>
+	
+	<div id="mySidenav" class="sidenav">
+		 <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+		<a href="Narendra.html">About NAMO</a>
+		<a href="Achievement.html">Acievements</a>
+		<a href="bio.html">Biography</a>
+		<a href="Books.html">Books</a>
+	</div>
+	<span style="font-size:35px; color:black; cursor:pointer;" onclick="openNav()">&#9776 </span>
+	<h3><font color="blue"><center>Welcome to</center></h3>
+	<h1><font color="red"><center>SB Cyber Imformation</center></h2>
+<img src="narendra1.jpg" alt="modi" style="width:250px;height:800px;" align="left"> 
+<img src="naremdra.jpg" alt="modi" style="width:250px;height:800px;" align="Right"> 
+ <script>
+	function openNav(){
+			document.getElementById("mySidenav").style.width= "250"
+			  }
+	function closeNav(){
+			document.getElementById("mySidenav").style.width= "0"
+			  }
+ </script>
+
+</body>
+<body bakground="narendra1.jpg" style="font-family:Copperplate Gothic;" style="font-color:#f88888; font-size:50%">
+<font color="black">	
+	<center><h3>This Site Will Give You Some Imformation</h3></center>
+	<center><h5>About</h5></center>
+<center> <h1><img src="nm.gif" alt="nm name"></h1></center>
+	<center><h3>So click on &#9776 Button And enjoy the Journey</h3></center><br><br>
+	<center><object width="450" height="345"
+		data="https://www.youtube.com/embed/E3ByCRqE7Lo">
+	</object></center>
+</body>
+
+</html>
