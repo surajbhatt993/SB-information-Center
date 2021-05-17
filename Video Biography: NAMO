@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>Biography</title>
+<style>
+p {
+  border: 1px solid white;
+  margin: 10px;
+} 
+div {
+  background-image: url('narendra1.jpg');
+}
+</style>
+</head>
+<body background="narendra1.jpg" style="font-family:Copperplate Gothic;"
+style="font-size:50%">
+<font color="white">	
+<center>
+<h1>Biography Of Modi</h1></center>
+<p><center>
+<video width="400" height="400" controls>
+  <source src="bio1.mp4" type="video/mp4">
+  <source src="	bio1.ogg" type="video/ogg">
+</font></center>
+</p>
+</video>
+<p><center><a href="Books.html">click to know the names of books written by/written on Modi</center></a></p>
+</body>
+</html>
